@@ -66,6 +66,9 @@ Deactivate virtual environment
 ```python
 deactivate
 ```
+```python
+deactivate
+```
 
 
 ## Directory structure
